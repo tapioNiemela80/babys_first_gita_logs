@@ -475,13 +475,13 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 <details>
 <summary><b>P is for persistence1.png</b> — Persistence (Part 1)</summary>
 
-![Persistence 1](P%20is%20for%20persitence1.png)
+![Persistence 1](P%20is%20for%20persistence1.png)
 </details>
 
 <details>
 <summary><b>P is for persistence2.png</b> — Persistence (Part 2)</summary>
 
-![Persistence 2](P%20is%20for%20persitence2.png)
+![Persistence 2](P%20is%20for%20persistence2.png)
 </details>
 
 <details>
