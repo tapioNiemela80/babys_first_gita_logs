@@ -631,15 +631,15 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 </details>
 
 <details>
-<summary><b>V Is for Void_ Beyond Patterns.png</b> — Beyond Patterns</summary>
-
-![Void](V%20Is%20for%20Void_%20Beyond%20Patterns.png)
-</details>
-
-<details>
 <summary><b>V is Value Objects_ Pearls of Meaning.png</b> — Value Objects</summary>
 
 ![Value Objects](V%20is%20Value%20Objects_%20Pearls%20of%20Meaning.png)
+</details>
+
+<details>
+<summary><b>V Is for Void_ Beyond Patterns.png</b> — Beyond Patterns</summary>
+
+![Void](V%20Is%20for%20Void_%20Beyond%20Patterns.png)
 </details>
 
 <details>
