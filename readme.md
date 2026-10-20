@@ -120,9 +120,6 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 ![Complexities](C%20is%20for%20complexities.jpg)
 </details>
 
-![Complexities](C is for  complexities.jpg)
-</details>
-
 <details>
 <summary><b>C Is for Cargo Cult.png</b> — Cargo Cult</summary>
 
