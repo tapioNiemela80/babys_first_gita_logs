@@ -20,7 +20,7 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 
 ---
 
-## 🅰️ A
+## A
 
 <details>
 <summary><b>A is AI -sleeping chariotee.png</b> — AI and the Sleeping Charioteer</summary>
@@ -72,7 +72,7 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 
 ---
 
-## 🅱️ B
+## B
 
 <details>
 <summary><b>B is for Bidirectional Mapping_ Model Relationships Explicitly.png</b> — Bidirectional Mapping</summary>
@@ -112,10 +112,13 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 
 ---
 
-## 🇨 C
+## C
 
 <details>
 <summary><b>C is for complexities.jpg</b> — Managing Complexities</summary>
+
+![Complexities](C%20is%20for%20complexities.jpg)
+</details>
 
 ![Complexities](C is for  complexities.jpg)
 </details>
@@ -182,7 +185,7 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 
 ---
 
-## 🇩 D
+## D
 
 <details>
 <summary><b>D is for DIP vs DI_ A Mythic Code Journey.png</b> — DIP vs DI</summary>
@@ -222,7 +225,7 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 
 ---
 
-## 🇪 E
+## E
 
 <details>
 <summary><b>E Is for Entity_ Identity in Action.png</b> — Entities</summary>
@@ -268,7 +271,7 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 
 ---
 
-## 🇫 F
+## F
 
 <details>
 <summary><b>F Is for Factory_ Comic Guide to Valid Objects.png</b> — Factories</summary>
@@ -473,13 +476,13 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 ## 🇵 🇶 🇷
 
 <details>
-<summary><b>P is for persitence1.png</b> — Persistence (Part 1)</summary>
+<summary><b>P is for persistence1.png</b> — Persistence (Part 1)</summary>
 
 ![Persistence 1](P%20is%20for%20persitence1.png)
 </details>
 
 <details>
-<summary><b>P is for persitence2.png</b> — Persistence (Part 2)</summary>
+<summary><b>P is for persistence2.png</b> — Persistence (Part 2)</summary>
 
 ![Persistence 2](P%20is%20for%20persitence2.png)
 </details>
