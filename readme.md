@@ -117,7 +117,7 @@ Welcome to a visual exploration of software architecture, Domain-Driven Design (
 <details>
 <summary><b>C is for complexities.jpg</b> — Managing Complexities</summary>
 
-![Complexities](C%20is%20for%C2%A0%20complexities.jpg)
+![Complexities](C is for  complexities.jpg)
 </details>
 
 <details>
